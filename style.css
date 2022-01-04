@@ -96,17 +96,25 @@ html {
     margin: 0 auto 50px auto;
     text-align: left;
   }
-button{
-      background-color: #04AA6D; /* Green */
-      border: none;
-      color: white;
-      padding: 20px;
-      text-align: center;
-      text-decoration: none;
-      display: inline-block;
-      font-size: 16px;
-      margin: 4px 2px;
-      cursor: pointer;
-    
-    border-radius: 12px;
-}
+
+
+.topnav {
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: rgb(112, 223, 84);
+  }
+  
+  .topnav a.active {
+    color: white;
+  }
