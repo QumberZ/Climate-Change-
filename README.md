@@ -34,12 +34,21 @@ Pollution is known to come from cars, factories, homes, and power plants that bu
             
             
            
-Solution#2: Adaptation
+Solution#1: Adaptation
 Adapting to changing climate requires being able to adapt for the futures climate change. The expected outcome is to reduce human vulnerability to the negative effects of climate change. These negative effects consist of and arent limited to sea level encroachment, increase of extreme weather events, and food insecurity. Being able to adapt will benefit and increase oppertunities for longer growing seasons and improving yields in various regions.
  
             
-Solution#1: Mitigation:
+Solution#2: Mitigation:
 This involves diminishing the flow of heat trapping greenhouse gases into the atmosphere. This can be accomplished by burning fossil fuels for electricity, heat and transport. The solution for mitigation is to circumvent significant human interference with the climate system and maintain greenhouse gas levels to allow ecosystems to naturally adapt to climate change.
-           
+
+
+       <h4> Other Solutions include</h4>
+<ul>
+    <li> Investing in energy-efficient appliances </li>
+    <li> Reducing water waste </li>
+    <li> Weatherizing </li>
+    <li> Utilizing Renewable energy</li>
+    <li> Driving fule efficient vehicles </li>
+    <li> Shrinking carbon profiles</li>
             
 <img src="https://user-images.githubusercontent.com/77298953/148160840-fb80dd49-b6f6-4f45-8875-7eebd16a46b8.gif" width=600><br>
