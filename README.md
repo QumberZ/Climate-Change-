@@ -42,7 +42,7 @@ Solution#2: Mitigation:
 This involves diminishing the flow of heat trapping greenhouse gases into the atmosphere. This can be accomplished by burning fossil fuels for electricity, heat and transport. The solution for mitigation is to circumvent significant human interference with the climate system and maintain greenhouse gas levels to allow ecosystems to naturally adapt to climate change.
 
 
-       <h4> Other Solutions include</h4>
+Other Solutions include
 <ul>
     <li> Investing in energy-efficient appliances </li>
     <li> Reducing water waste </li>
